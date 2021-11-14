@@ -1,0 +1,9 @@
+{
+  "name": "Mental Health Helper",
+  "description": "Reduce negative mental health experiences caused by social media.",
+  "version": "1.0",
+  "manifest_version": 1
+  "content": {
+  "service_worker": "content.js"
+  }
+}
