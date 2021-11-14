@@ -6,5 +6,8 @@
   "content": {
   "service_worker": "content.js"
   },
-"permissions": ["storage"]
+"permissions": ["storage"],
+"action": {
+  "default_popup": "popup.html"
+}
 }
